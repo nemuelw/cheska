@@ -104,3 +104,7 @@ Feel free to open an issue for discussion or submit a pull request.
 ## Developers & Maintainers
 
 - Nemuel Wainaina ([nemuelwainaina@proton.me](mailto:nemuelwainaina@proton.me))
+
+## License
+
+This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE).
