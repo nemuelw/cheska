@@ -44,7 +44,7 @@ def print_banner():
     from pyfiglet import figlet_format
     name = figlet_format('CHESKA').rstrip()
     desc = f'  > Builder for analysis-aware Windows droppers'
-    auth = f'  > Author: Nemuel Wainaina (@nemuelw)'
+    auth = f'  > Author: Nemuel Wainaina (nemuelwainaina@proton.me)'
     print(f'{Fore.GREEN}{name}{Fore.RESET}', end='\n\n')
     for x in (desc, auth):
         print(f'{Fore.GREEN}{x}{Fore.RESET}')
